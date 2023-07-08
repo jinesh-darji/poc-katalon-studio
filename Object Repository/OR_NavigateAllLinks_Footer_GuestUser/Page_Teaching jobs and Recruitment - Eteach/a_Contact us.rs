@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact us</name>
+   <tag></tag>
+   <elementGuidId>7fdcfcd5-7ea7-4b80-b45d-c30cde1949e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Contact us')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff85db02-a30a-4ce2-9cbc-ed6617506ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/contact-us</value>
+      <webElementGuid>4427e56a-977a-4cb3-9ae4-9d7fd2f5c2ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>7b1790b6-441e-4cd5-8f98-008ab4e1c931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>f309eef3-a56e-44a5-80ef-d46dc0740008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Contact us </value>
+      <webElementGuid>fb28b471-bf09-4f23-97d8-be5c278d43a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/footer[@class=&quot;mt-auto&quot;]/div[@class=&quot;bg-primary py-7 ng-star-inserted&quot;]/div[@class=&quot;mt-auto px-3 md:px-4 flex flex-col sm:flex-row sm:justify-between sm:flex-wrap w-full xl:w-320 xl:mx-auto z-49 text-base font-normal dark:bg-transparent print:hidden&quot;]/div[@class=&quot;lg:w-1/5 sm:w-4/12 hidden sm:block order-4 sm:order-none ng-star-inserted&quot;]/ul[1]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>09617ce2-b009-4571-870e-ef21572c4ddd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact us')]</value>
+      <webElementGuid>243cb882-13de-4a66-b240-44156785b225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who we are'])[1]/following::a[1]</value>
+      <webElementGuid>c35dcb7d-8acc-4afe-9662-eb0c11b370d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eteach'])[1]/following::a[2]</value>
+      <webElementGuid>c5112ce2-181d-40c3-bf28-1d155450b5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mission and vision'])[1]/preceding::a[1]</value>
+      <webElementGuid>8566c3ab-2e1c-4372-a820-32a3aba63271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work for us'])[1]/preceding::a[2]</value>
+      <webElementGuid>a290029a-a051-4126-a2e3-0f5895434ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/contact-us')])[2]</value>
+      <webElementGuid>e819217f-970d-43e8-8f21-c0f79ca8af06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>1d03d066-6ddb-4310-8f1e-152430ad5906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/contact-us' and (text() = ' Contact us ' or . = ' Contact us ')]</value>
+      <webElementGuid>037dfdbc-f30e-4d6c-8bad-0d11e712a739</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

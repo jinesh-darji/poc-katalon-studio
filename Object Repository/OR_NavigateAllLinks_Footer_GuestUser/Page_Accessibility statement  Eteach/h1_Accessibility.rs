@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Accessibility</name>
+   <tag></tag>
+   <elementGuidId>ef1cab74-662c-4508-aaa8-9b44abc89991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>ed3908e4-c549-46a9-bb96-bc99b0d7a2de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accessibility</value>
+      <webElementGuid>d12275e5-d26c-4563-a564-0d91b76a01b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;umb-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;bg-img&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-md-12 column&quot;]/div[1]/div[@class=&quot;bx text-white mt-50 p-20&quot;]/h1[1]</value>
+      <webElementGuid>9e183705-f2c0-4772-8cd9-dc8c8f7fb4cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>89a27d7e-5ddb-4e14-87de-60d632d76c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Options'])[2]/following::h1[1]</value>
+      <webElementGuid>1f9b5fd7-fafb-4a2c-bacd-6400eef5c227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us: 0845 226 1906'])[1]/following::h1[1]</value>
+      <webElementGuid>1d172903-ff43-4982-a0ad-9297a340b172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contact us'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a7f17379-0332-4ad3-9c42-590cdb5bab3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Without exception, visitors to Eteach.com should be able to:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c6d3912b-b8bd-42b4-85a9-c0e1a3a513ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accessibility']/parent::*</value>
+      <webElementGuid>7e3a7d83-c656-4ab7-b80b-441acccc2bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>3cd58cb6-3ba3-44ff-b1b3-71eb4c30b68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Accessibility' or . = 'Accessibility')]</value>
+      <webElementGuid>5e9011e8-f2b9-4024-b7b7-82cee50bee06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

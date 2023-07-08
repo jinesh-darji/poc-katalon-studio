@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mission and vision</name>
+   <tag></tag>
+   <elementGuidId>3dbc74d4-f22e-49f7-9594-e7a77d82776b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Mission and vision')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1de9da9-ae30-46e6-a144-baa6d65d64e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mission-and-vision</value>
+      <webElementGuid>a8371b4a-cbde-453d-b26e-932fa9b2d3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>2eb86e32-c980-4a97-9ef2-cd2de5b3843c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>ff22ba3a-73a0-458a-af30-a54f7ec3f148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mission and vision </value>
+      <webElementGuid>0ebe4649-956b-45e2-b9b4-052b387dfbd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/footer[@class=&quot;mt-auto&quot;]/div[@class=&quot;bg-primary py-7 ng-star-inserted&quot;]/div[@class=&quot;mt-auto px-3 md:px-4 flex flex-col sm:flex-row sm:justify-between sm:flex-wrap w-full xl:w-320 xl:mx-auto z-49 text-base font-normal dark:bg-transparent print:hidden&quot;]/div[@class=&quot;lg:w-1/5 sm:w-4/12 hidden sm:block order-4 sm:order-none ng-star-inserted&quot;]/ul[1]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>efc08d46-25ef-42ba-8c36-47e8e727c6de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mission and vision')]</value>
+      <webElementGuid>ee74936e-401d-474f-b15a-8ba4b9c115ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[2]/following::a[1]</value>
+      <webElementGuid>aadc715a-cd1d-4c34-bf42-ffe5175c1586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who we are'])[1]/following::a[2]</value>
+      <webElementGuid>57b9edee-609f-4377-8200-2f71c8a52406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work for us'])[1]/preceding::a[1]</value>
+      <webElementGuid>ee76b8a1-535f-45aa-a589-e1ed3eef0dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::a[2]</value>
+      <webElementGuid>f6f5c41a-7933-4162-b0c6-5c9a672b8279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mission and vision']/parent::*</value>
+      <webElementGuid>4e94d38d-283c-4ef5-81fe-d5d6057b8446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mission-and-vision')]</value>
+      <webElementGuid>d06e325a-127b-4140-b62a-fb55d3d9724a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>04fa8198-5ae5-43cb-b745-4bd633c6cecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/mission-and-vision' and (text() = ' Mission and vision ' or . = ' Mission and vision ')]</value>
+      <webElementGuid>52bf364d-39bf-4343-bafb-a3584d0addb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Join Eteach</name>
+   <tag></tag>
+   <elementGuidId>46514354-7819-435e-b2da-ea210734799f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.mb-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div[3]/div/div/div/div/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>62249c46-81c2-4622-8b5e-6c62e07b6058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-5</value>
+      <webElementGuid>42ad2aec-6c4d-4a68-a64a-942c77a68eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join Eteach</value>
+      <webElementGuid>a1177b00-c08f-41a4-a88d-7650e46eaf41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;umb-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;white-bg pt-50 pb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-md-12 column&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 text-center or-graphic&quot;]/div[@class=&quot;ra-box-theme-1&quot;]/h3[@class=&quot;mb-5&quot;]</value>
+      <webElementGuid>5bfbe41d-cf20-42d0-8532-b95efbac3ceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div[3]/div/div/div/div/div/div/div/h3</value>
+      <webElementGuid>79aca05b-a46e-44c4-9a89-f0d48eacce60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Want a call from us?'])[1]/following::h3[1]</value>
+      <webElementGuid>c939d164-f38f-4469-b03d-ad06be892da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us: +44 (0)1276 674 295'])[1]/following::h3[1]</value>
+      <webElementGuid>f5f647fe-7b49-4f67-b085-943227790aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register now'])[1]/preceding::h3[1]</value>
+      <webElementGuid>52e45465-ad6f-452e-8f67-1ff5d4e79ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Looking to hire?'])[1]/preceding::h3[1]</value>
+      <webElementGuid>cc92cda9-6abd-461c-ae03-9a9084c2582a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join Eteach']/parent::*</value>
+      <webElementGuid>5ebd559a-a13c-4271-9b0a-e9439e5606ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/h3</value>
+      <webElementGuid>f3fb9cec-811d-4c08-b71f-caadcea83f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Join Eteach' or . = 'Join Eteach')]</value>
+      <webElementGuid>f32dc4ce-bd0b-46f6-8b59-e13653366a10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

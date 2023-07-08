@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Eteach Education Advisers</name>
+   <tag></tag>
+   <elementGuidId>962796bc-9051-4aed-ba32-7d44a8d146d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>280fc1cb-30d2-465d-a8c1-d6cfdbcde64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eteach Education Advisers</value>
+      <webElementGuid>38bdd104-b383-4999-9feb-d3aeef8f4133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;umb-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;bg-img&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-md-12 column&quot;]/div[1]/div[@class=&quot;bx text-white mt-50 p-20&quot;]/h1[1]</value>
+      <webElementGuid>2b1da5f7-70f1-4ea9-a839-1feb6fb8d72b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>e644396e-749c-4de0-ae65-76d5c1a27678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Options'])[2]/following::h1[1]</value>
+      <webElementGuid>79fef9de-efe4-4f94-a3eb-136d01211084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us: 0845 226 1906'])[1]/following::h1[1]</value>
+      <webElementGuid>a48cf1d5-5a22-4182-9074-6ee8fc5ab50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Eteach Register of Trusted Advisers (RoTA)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e5b83657-08f2-46f9-89d2-0b926d65668a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coaching and mentoring'])[1]/preceding::h1[1]</value>
+      <webElementGuid>85d6b6c9-8ef6-43d9-a2fc-27142b1f8588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>fe47c144-feea-4cdc-a6c7-de9bcb827868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Eteach Education Advisers' or . = 'Eteach Education Advisers')]</value>
+      <webElementGuid>808d9d4a-5de9-4fb3-911b-ca67b71bf17a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

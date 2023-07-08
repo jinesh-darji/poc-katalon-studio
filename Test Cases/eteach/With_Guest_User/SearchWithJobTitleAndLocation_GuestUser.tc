@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchWithJobTitleAndLocation_GuestUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4569cb5-fc9c-4c02-8976-43eb08473d3e</testCaseGuid>
+</TestCaseEntity>

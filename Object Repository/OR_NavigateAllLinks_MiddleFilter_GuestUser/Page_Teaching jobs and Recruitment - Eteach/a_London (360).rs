@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_London (360)</name>
+   <tag></tag>
+   <elementGuidId>ba903be6-05a5-4104-afb4-629175c7a9a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-tns-c114-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[4]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef5e3201-8681-4f4f-b06d-f8686ca65215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_target</name>
+      <type>Main</type>
+      <value>self</value>
+      <webElementGuid>2aff7b2a-0ad2-4aee-9e27-619f947007b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c114-9</value>
+      <webElementGuid>bd1d91b8-4dad-4dda-affb-b050d5eb1c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobs/london</value>
+      <webElementGuid>77255657-3132-44f5-ad47-395c40b133c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>London</value>
+      <webElementGuid>4b109103-aca8-48ca-83a0-5b2cd8bbe800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>London (360)</value>
+      <webElementGuid>06ce8481-ab95-4373-b39a-a0c04ed4fa50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;w-full&quot;]/popular-search[1]/div[@class=&quot;multi-select-wrap px-6 hidden md:block md:px-0 md:w-full md:mx-auto relative ng-star-inserted&quot;]/et-tab[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/div[@class=&quot;select-desc w-full border-b border-primary-400 bg-warn z-50 transition-all ng-tns-c114-9 ng-trigger ng-trigger-expandCollapse open-panel-action ng-star-inserted&quot;]/ul[@class=&quot;grid gap-0.5 md:grid-cols-3 lg:grid-cols-4 px-6 lg:px-0 py-8 w-full lg:w-280 mx-auto ng-tns-c114-9&quot;]/li[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/ng-cointainer[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c114-9&quot;]</value>
+      <webElementGuid>6126ba21-f817-4eec-b933-889f01374ae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[4]/following::a[1]</value>
+      <webElementGuid>d448d228-6231-4625-bc7f-cee6d85a3090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs by phase'])[1]/following::a[1]</value>
+      <webElementGuid>28be6eca-b118-454b-9b7f-42f0391372b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='London']/parent::*</value>
+      <webElementGuid>f5e3f606-8f49-4ca6-b512-cd841c2a0fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jobs/london')]</value>
+      <webElementGuid>fb05788e-ff69-4b05-bb5b-4fe3dd3b2feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-cointainer/a</value>
+      <webElementGuid>2d0daebe-644a-4123-8f65-e26b1e0047d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobs/london' and (text() = 'London (360)' or . = 'London (360)')]</value>
+      <webElementGuid>f4be5eb7-1370-42d5-9a5a-d249b27aed2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

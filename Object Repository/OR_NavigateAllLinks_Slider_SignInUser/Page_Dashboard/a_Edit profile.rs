@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit profile</name>
+   <tag></tag>
+   <elementGuidId>c53117d7-c25f-43cc-bfd8-3439752e5ecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[3]/div/div[4]/div[3]/div/div/div/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.apply-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2fbe2985-529b-4c7b-b300-4456f2268d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobseekers/aboutme/</value>
+      <webElementGuid>445c2495-4048-4929-88df-29f99f6cfe31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn apply-btn</value>
+      <webElementGuid>55a2a8c1-5d91-4027-9e1a-5088dc66a40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit profile</value>
+      <webElementGuid>96769456-a474-45af-889a-77b48cf249e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold candidate-indexhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;container seeker-wrap candi-account-hold&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4&quot;]/div[@class=&quot;box-dash1&quot;]/div[@class=&quot;col-md-12 dash-pro-detail col-md-12 col-sm-12 col-xs-6&quot;]/a[@class=&quot;btn apply-btn&quot;]</value>
+      <webElementGuid>5d0738c2-92d2-468e-81f4-217e5af24419</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[3]/div/div[4]/div[3]/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>1b793de0-c8cc-4342-81d8-6f36f40c1b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit profile')]</value>
+      <webElementGuid>31ffffc8-d448-437c-9453-81b8abf148ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='London,Greater London'])[1]/following::a[1]</value>
+      <webElementGuid>311c6292-7ace-44cd-b7fa-695e0c5c6f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='johnlee11@yopmail.com'])[1]/following::a[1]</value>
+      <webElementGuid>0137940a-ae61-4014-9736-fce985baa342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload a new CV/resume'])[1]/preceding::a[1]</value>
+      <webElementGuid>bf6eb321-d710-43c8-bdd4-d16669bb85f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a new job alert'])[1]/preceding::a[2]</value>
+      <webElementGuid>39f3111a-94d5-447f-b573-04cea3a61d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit profile']/parent::*</value>
+      <webElementGuid>0944cd1f-7644-4fad-8d26-5034e5d7aab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/jobseekers/aboutme/')])[4]</value>
+      <webElementGuid>d7d71f2f-9233-435d-ab55-78a183be2bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>510decbf-b79a-4515-936b-5a4b3631c155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobseekers/aboutme/' and (text() = 'Edit profile' or . = 'Edit profile')]</value>
+      <webElementGuid>d1f3e7fb-108d-4655-9494-e32d08fd21ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Terms and Conditions</name>
+   <tag></tag>
+   <elementGuidId>946c7ce9-affe-484f-818c-44d5cf8679a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.section-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0c560974-94e7-4913-94f4-db1b64792730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title</value>
+      <webElementGuid>075354c9-2b37-4dc2-a38a-606cf9f98544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terms and Conditions</value>
+      <webElementGuid>9545b806-9f1f-4b34-a512-c80b38ee2818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;umb-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;white-bg pt-30 pb-20&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-md-12 column&quot;]/div[1]/h1[@class=&quot;section-title&quot;]</value>
+      <webElementGuid>58f9734f-1a4c-4d16-a450-50b33c2aaeb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>19f7c7c0-5832-43f1-9231-239bf3c77f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Options'])[2]/following::h1[1]</value>
+      <webElementGuid>d7049c1a-deb6-476e-95c0-b30f3035be36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us: 0845 226 1906'])[1]/following::h1[1]</value>
+      <webElementGuid>168a0dd9-7655-4c0b-aad2-8da25d8fe68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Advertisers'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0143d735-1a02-4657-8e0d-25323a9a8780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertiser Terms &amp; Conditions'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bd0a90bc-e0a8-49a4-bfd8-f78a1e3fcf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terms and Conditions']/parent::*</value>
+      <webElementGuid>3a71dd06-b443-41a0-a690-a6ce8471fa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>7d474ca4-2b7f-4f11-9914-3bb27d9f3ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Terms and Conditions' or . = 'Terms and Conditions')]</value>
+      <webElementGuid>e2320af6-5760-483a-98f1-50bbad6ac994</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

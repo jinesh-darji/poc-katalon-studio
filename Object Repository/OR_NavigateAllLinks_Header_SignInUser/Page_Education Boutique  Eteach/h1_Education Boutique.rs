@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Education Boutique</name>
+   <tag></tag>
+   <elementGuidId>672c2ef6-124b-4e19-99e3-733fc6fb920b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>bf5a0ba2-1b2b-4890-b931-9491718040fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Education Boutique</value>
+      <webElementGuid>8dd60aad-5233-43c0-86f2-62747440182e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;umb-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;bg-img&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-md-12 column&quot;]/div[1]/div[@class=&quot;bx text-white mt-50 p-20&quot;]/h1[1]</value>
+      <webElementGuid>a0f69227-fc1f-4d2d-8c75-e642f26723a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[2]/div/div[2]/div/div/div/div/div/div/div/div/h1</value>
+      <webElementGuid>daab2f57-2b7f-4fa7-9a46-456fabce2f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Options'])[2]/following::h1[1]</value>
+      <webElementGuid>200799e9-bc3a-4dad-ad34-53d7fd5d29a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[4]/following::h1[1]</value>
+      <webElementGuid>eb100f8f-11fb-4453-9ebe-5630b9912a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make the world your classroom'])[1]/preceding::h1[1]</value>
+      <webElementGuid>95fdcb53-29a8-4dff-afd9-3c000ce7802f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register as a tutor'])[1]/preceding::h1[1]</value>
+      <webElementGuid>2506d968-d867-4568-a20e-dbeb8d7885b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>e878d4fd-9d9c-4034-b796-0b8297e0ceff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Education Boutique' or . = 'Education Boutique')]</value>
+      <webElementGuid>61abf830-6c6d-43de-9645-f6934cf32d3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create new job alert</name>
+   <tag></tag>
+   <elementGuidId>4fb08bac-fbc4-4c65-8d70-1a2d82763a04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[5]/div/div[4]/div[2]/div/div/div[2]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.apply-btn.submit-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba3e9a8c-55bc-40e4-9e3a-e1cfd01cae02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobseekers/jbe?populateJBE=false</value>
+      <webElementGuid>90689f19-8f9c-42a9-a636-2509f1389566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn apply-btn submit-btn</value>
+      <webElementGuid>be999aad-bfe2-45c4-a4ae-a9f056836704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new job alert</value>
+      <webElementGuid>07890748-942c-44f0-a854-301f48e4ad1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold candidate-indexhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;container seeker-wrap&quot;]/div[@class=&quot;col-md-12 job-alert-page&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-10 col-xs-12&quot;]/div[@class=&quot;box-theme-7&quot;]/div[@class=&quot;pull-right&quot;]/a[@class=&quot;btn apply-btn submit-btn&quot;]</value>
+      <webElementGuid>20a37e54-0c06-404d-97cb-083a79a1eda4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[5]/div/div[4]/div[2]/div/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>2c882227-abdf-4a9d-8edb-f5b8df995398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create new job alert')]</value>
+      <webElementGuid>6862fa4b-a6cb-4ffb-9244-26c6dad09c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('You', &quot;'&quot;, 've got mail')])[1]/following::a[1]</value>
+      <webElementGuid>94e93545-2d9c-401b-b2cd-6a17bf6ae8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::a[1]</value>
+      <webElementGuid>1d1c9204-3890-4c1c-aa15-4d7cc341724b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job alert'])[1]/preceding::a[1]</value>
+      <webElementGuid>14d51e57-0e15-4633-bbf5-21759c372566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create new job alert']/parent::*</value>
+      <webElementGuid>0caa2883-4874-4cfd-8e48-319c0c517687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jobseekers/jbe?populateJBE=false')]</value>
+      <webElementGuid>04bf351f-18f7-4803-a119-0f6a13a62243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>0a26662a-ee5d-40e7-9cf4-47793cc655f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobseekers/jbe?populateJBE=false' and (text() = 'Create new job alert' or . = 'Create new job alert')]</value>
+      <webElementGuid>b119fb4d-fc83-4724-bcdb-600bf59de032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Phases</name>
+   <tag></tag>
+   <elementGuidId>b8169c7d-527f-4ecd-9388-f15b8e256773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-1']/div/div[5]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-tooltip-trigger.fuse-horizontal-navigation-item.ng-star-inserted.cdk-focused.cdk-mouse-focused > div.fuse-horizontal-navigation-item-title-wrapper.ng-star-inserted > div.fuse-horizontal-navigation-item-title.horizontal-nav-content-title > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1f8d4e8-91d0-439a-8425-587a4f0970a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Phases </value>
+      <webElementGuid>85ce9bb9-6fad-499c-8326-4bf3455e05c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-1&quot;)/div[@class=&quot;mat-menu-content ng-tns-c56-3&quot;]/div[@class=&quot;mat-focus-indicator fuse-horizontal-navigation-menu-item mat-menu-item ng-tns-c56-3 ng-star-inserted&quot;]/fuse-horizontal-navigation-basic-item[1]/div[@class=&quot;fuse-horizontal-navigation-item-wrapper fuse-horizontal-navigation-item-has-subtitle horizontal-nav-content-wrapper ng-star-inserted&quot;]/a[@class=&quot;mat-tooltip-trigger fuse-horizontal-navigation-item ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title-wrapper ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title horizontal-nav-content-title&quot;]/span[1]</value>
+      <webElementGuid>4552947a-28aa-4c6b-93d5-c47d278b4b54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-1']/div/div[5]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      <webElementGuid>8664b18d-a9e7-4360-a1fd-ffcce190dd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about what it’s like to teach across the UK'])[1]/following::span[1]</value>
+      <webElementGuid>de9b1082-e87b-41b7-950b-810b97b3d40c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Guides'])[1]/following::span[2]</value>
+      <webElementGuid>99e9bebf-98c2-45a3-a371-eaa6eb68c3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search jobs by phase'])[1]/preceding::span[1]</value>
+      <webElementGuid>39b5ae2a-7a0d-4886-a5ab-649641f4a5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Phases']/parent::*</value>
+      <webElementGuid>92e0e170-bf95-4ff8-83cd-dc11884f13f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      <webElementGuid>1b7eb08b-ae73-468a-9bee-8ecfc0a0193e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Phases ' or . = ' Phases ')]</value>
+      <webElementGuid>949378e1-db48-43b6-af94-713aa35cbfbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

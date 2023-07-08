@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Jobs</name>
+   <tag></tag>
+   <elementGuidId>c0b6bee0-460d-4429-a525-b2720345aaf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Pathways'])[1]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>41e2a5ba-5084-44cf-92a6-2d1899197f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Jobs </value>
+      <webElementGuid>d8a01235-6735-4907-bfa0-5af577dbc1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;relative bg-primary-500 w-full&quot;]/div[@class=&quot;flex text-white flex-0 items-center lg:w-320 lg:mx-auto h-15 px-3 md:px-4 z-49 dark:shadow-none dark:border-b dark:bg-transparent print:hidden&quot;]/fuse-horizontal-navigation[@class=&quot;mt-1 mr-2 ng-tns-c63-0 ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-wrapper ng-tns-c63-0&quot;]/fuse-horizontal-navigation-basic-item[@class=&quot;fuse-horizontal-navigation-menu-item ng-tns-c63-0 ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-wrapper ng-star-inserted&quot;]/a[@class=&quot;mat-tooltip-trigger fuse-horizontal-navigation-item ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title-wrapper ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title&quot;]/span[1]</value>
+      <webElementGuid>8dcb35f2-0012-4052-812e-1e98d6305d3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Pathways'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b1858a1-04dd-41f5-a463-bb63f68eb20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/preceding::span[3]</value>
+      <webElementGuid>1bb7bdba-7470-4deb-aacc-188bd4ed4577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jobs']/parent::*</value>
+      <webElementGuid>893197ed-b457-42d9-b6e5-daf44cbd1689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>7a3ea74f-dad2-4919-8e6c-595bb0244212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Jobs ' or . = ' Jobs ')]</value>
+      <webElementGuid>8b40c69a-891f-4fbf-ba1f-cecf2515e252</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

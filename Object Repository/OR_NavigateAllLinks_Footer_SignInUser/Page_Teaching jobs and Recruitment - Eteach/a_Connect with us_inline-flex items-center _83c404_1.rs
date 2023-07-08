@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Connect with us_inline-flex items-center _83c404_1</name>
+   <tag></tag>
+   <elementGuidId>5da3ebbd-03b2-45f1-86f5-bbfee3b214ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us'])[1]/following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>12e6548e-eb5c-43e1-afd8-ebff3c134095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>db7acec3-43d5-42db-bcb6-e4907e62cc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center mr-2 w-7 h-7 bg-primary-200 rounded-full</value>
+      <webElementGuid>4be89cbb-7bec-4ea4-b5c5-39bdbdefbca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://twitter.com/eteach</value>
+      <webElementGuid>a931307b-7312-4920-8b7a-fc784f434e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Twitter</value>
+      <webElementGuid>e74ec954-d317-4da8-a740-1154b586553e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/footer[@class=&quot;mt-auto&quot;]/div[@class=&quot;bg-primary py-7 ng-star-inserted&quot;]/div[@class=&quot;mt-auto px-3 md:px-4 flex flex-col sm:flex-row sm:justify-between sm:flex-wrap w-full xl:w-320 xl:mx-auto z-49 text-base font-normal dark:bg-transparent print:hidden&quot;]/div[@class=&quot;lg:w-1/5 sm:w-4/12 pb-7 sm:pb-0 order-2 sm:order-none&quot;]/div[@class=&quot;sci flex mb-4&quot;]/a[@class=&quot;inline-flex items-center justify-center mr-2 w-7 h-7 bg-primary-200 rounded-full&quot;]</value>
+      <webElementGuid>b10fc206-7ea7-4992-92f5-225fcbd93708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us'])[1]/following::a[2]</value>
+      <webElementGuid>c4b7729e-023a-4c6b-8273-484f6acf623d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility'])[1]/following::a[2]</value>
+      <webElementGuid>5f81a4c3-b199-4f4d-9efd-de95bf2b4866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='call'])[1]/preceding::a[3]</value>
+      <webElementGuid>3570fbcc-a57a-4ff2-ad10-e18682453b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email'])[1]/preceding::a[4]</value>
+      <webElementGuid>fe9bd030-5730-438c-8f0a-0966dfbc761a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://twitter.com/eteach')]</value>
+      <webElementGuid>06e3a08d-0ef6-473c-985f-1d34683599b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[2]</value>
+      <webElementGuid>562e7589-d338-49c6-884a-0c0e8cc750f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://twitter.com/eteach']</value>
+      <webElementGuid>0a00f24c-dca9-4e06-8f71-bf208a752d93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

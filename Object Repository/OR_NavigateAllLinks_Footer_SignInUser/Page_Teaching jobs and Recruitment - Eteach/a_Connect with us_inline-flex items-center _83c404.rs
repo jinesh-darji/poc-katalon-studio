@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Connect with us_inline-flex items-center _83c404</name>
+   <tag></tag>
+   <elementGuidId>f2e3409a-e03e-4d4c-85bb-83828b61c1d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.inline-flex.items-center.justify-center.mr-2.w-7.h-7.bg-primary-200.rounded-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>78757814-d4be-48c7-89eb-f05ee9e3683c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>16098703-1e67-4c50-9ad7-8048d3831108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center mr-2 w-7 h-7 bg-primary-200 rounded-full</value>
+      <webElementGuid>aba9422f-1b34-4a14-882a-70f50ac49be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://facebook.com/eteach</value>
+      <webElementGuid>58b90f87-4e04-4a07-88a1-6da26b7e29cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Facebook</value>
+      <webElementGuid>809ff182-480a-4885-8f6f-8a4bb30d4c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/footer[@class=&quot;mt-auto&quot;]/div[@class=&quot;bg-primary py-7 ng-star-inserted&quot;]/div[@class=&quot;mt-auto px-3 md:px-4 flex flex-col sm:flex-row sm:justify-between sm:flex-wrap w-full xl:w-320 xl:mx-auto z-49 text-base font-normal dark:bg-transparent print:hidden&quot;]/div[@class=&quot;lg:w-1/5 sm:w-4/12 pb-7 sm:pb-0 order-2 sm:order-none&quot;]/div[@class=&quot;sci flex mb-4&quot;]/a[@class=&quot;inline-flex items-center justify-center mr-2 w-7 h-7 bg-primary-200 rounded-full&quot;]</value>
+      <webElementGuid>17b68006-f576-4861-9e66-ff102801979d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with us'])[1]/following::a[1]</value>
+      <webElementGuid>f36feaaa-f4e0-4a01-9b42-4f7ee7e3f0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility'])[1]/following::a[1]</value>
+      <webElementGuid>8f2b278d-968e-4097-97e5-9c8a9326f061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='call'])[1]/preceding::a[4]</value>
+      <webElementGuid>7e028e3d-0f4b-4dac-a91e-bb29da3975ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email'])[1]/preceding::a[5]</value>
+      <webElementGuid>52ac66f2-ba19-4773-82cc-87e6bb40f621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://facebook.com/eteach')]</value>
+      <webElementGuid>90bed045-724d-40a1-bde8-75ec94eb513e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a</value>
+      <webElementGuid>0335a894-f92f-42f0-babf-5a16c3130d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://facebook.com/eteach']</value>
+      <webElementGuid>af8dfcec-b349-4579-bab9-4a7aa528b25a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

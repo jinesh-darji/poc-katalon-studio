@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Work for us</name>
+   <tag></tag>
+   <elementGuidId>1af9974e-6d0f-4a58-90d4-7356a384b45f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Work for us')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc73bfa0-2c46-4275-9052-d63b87661c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://eteachgroup.recruitee.com/</value>
+      <webElementGuid>904fedb6-73f1-4771-ac3f-2a0381b00c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>a2cdebc6-1d89-4241-b6f4-6daf7cccc8d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>3f759a3c-b767-43e9-899e-222d0c51c077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Work for us </value>
+      <webElementGuid>f4aaa19e-e2c1-49e3-94aa-01b3057860e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/footer[@class=&quot;mt-auto&quot;]/div[@class=&quot;bg-primary py-7 ng-star-inserted&quot;]/div[@class=&quot;mt-auto px-3 md:px-4 flex flex-col sm:flex-row sm:justify-between sm:flex-wrap w-full xl:w-320 xl:mx-auto z-49 text-base font-normal dark:bg-transparent print:hidden&quot;]/div[@class=&quot;lg:w-1/5 sm:w-4/12 hidden sm:block order-4 sm:order-none ng-star-inserted&quot;]/ul[1]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>3396ccf3-758f-47c1-9964-20381395d109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Work for us')]</value>
+      <webElementGuid>8b0d5f29-5f84-4e7a-b244-4f3e025c4f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mission and vision'])[1]/following::a[1]</value>
+      <webElementGuid>754c0753-d8bc-4da8-9d60-c54a068f18cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[2]/following::a[2]</value>
+      <webElementGuid>fcd7ed5c-1b9c-4368-9ca7-85dba128ca33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::a[1]</value>
+      <webElementGuid>10afcd80-1c0f-4eba-8515-464514c0da93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal'])[1]/preceding::a[2]</value>
+      <webElementGuid>c5e7a0c7-d45b-482e-adaa-ff0fca0392b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Work for us']/parent::*</value>
+      <webElementGuid>94b16f3e-2c45-4406-88ba-5940099158b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://eteachgroup.recruitee.com/')]</value>
+      <webElementGuid>5ee698de-ed95-4b3f-a64f-a6a929c2f8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>b3564a6a-14e1-4391-834a-841319534203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://eteachgroup.recruitee.com/' and (text() = ' Work for us ' or . = ' Work for us ')]</value>
+      <webElementGuid>b220c80b-8465-4592-8b46-0544dafa18f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

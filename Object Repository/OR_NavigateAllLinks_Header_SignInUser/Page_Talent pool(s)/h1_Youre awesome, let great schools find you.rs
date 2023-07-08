@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Youre awesome, let great schools find you</name>
+   <tag></tag>
+   <elementGuidId>87e69666-cddb-4b27-ab2a-91e9181c8c22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='theading']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8ac2c344-d5a1-4165-b5aa-8c74b5f17548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You're awesome, let great schools find you!</value>
+      <webElementGuid>0b041c2c-235e-4026-8f7c-093202dff164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;theading&quot;)/h1[1]</value>
+      <webElementGuid>2ec19384-6aa6-4b8b-a3ed-90f2f8f2b738</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='theading']/h1</value>
+      <webElementGuid>c637f4a6-0ba2-414e-8b01-65e5df6b32e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deleted successfully.'])[1]/following::h1[1]</value>
+      <webElementGuid>27c1ba89-7541-41f6-8dfd-574814dc7595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preference Centre'])[1]/following::h1[1]</value>
+      <webElementGuid>d7a54bb2-c5e1-4337-a1e6-0c4cf79207f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regional talent pool(s)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a4a31804-765c-41a2-97ff-8f7baa6d38f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group talent pool(s)'])[1]/preceding::h1[2]</value>
+      <webElementGuid>306a5688-7d64-47d8-9fef-3edd82d6842e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>0554bad4-2f05-43d7-b13c-6d34ac55b49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;You&quot; , &quot;'&quot; , &quot;re awesome, let great schools find you!&quot;) or . = concat(&quot;You&quot; , &quot;'&quot; , &quot;re awesome, let great schools find you!&quot;))]</value>
+      <webElementGuid>b9ef1455-b925-47fc-b536-36f3859030a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

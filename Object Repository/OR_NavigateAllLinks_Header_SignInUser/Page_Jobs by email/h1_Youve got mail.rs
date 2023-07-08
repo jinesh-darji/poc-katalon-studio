@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Youve got mail</name>
+   <tag></tag>
+   <elementGuidId>d44e7af5-8118-4608-a2b8-3e8ca68f0a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[5]/div/div[4]/div[2]/div/div/div[2]/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>7476da77-b8fd-4dcf-b8bd-10be1b0c215a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You've got mail</value>
+      <webElementGuid>f7169447-5ec7-495d-ad84-3d0d7445caeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold candidate-indexhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;container-fluid account-detail-hold&quot;]/div[@class=&quot;container seeker-wrap&quot;]/div[@class=&quot;col-md-12 job-alert-page&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-10 col-xs-12&quot;]/div[@class=&quot;head-title&quot;]/h1[1]</value>
+      <webElementGuid>5dce50db-62d9-40ee-a37a-e609b058019f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[5]/div/div[4]/div[2]/div/div/div[2]/div/h1</value>
+      <webElementGuid>851cb00a-d297-4d5d-bb90-21d386684a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preference Centre'])[1]/following::h1[1]</value>
+      <webElementGuid>1ea9b248-da93-4880-be20-1d377296709d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[1]/following::h1[1]</value>
+      <webElementGuid>34eafad0-326e-4a63-8499-7e15db0c21d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create new job alert'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e6c1aaf8-83ec-4053-b05e-af7fe1769aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>ffcedc0c-62c0-4b9b-94df-ec5e0631fc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;You&quot; , &quot;'&quot; , &quot;ve got mail&quot;) or . = concat(&quot;You&quot; , &quot;'&quot; , &quot;ve got mail&quot;))]</value>
+      <webElementGuid>9560ba4a-1356-4103-b79f-c0619975dfef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sixth Form (1,053)</name>
+   <tag></tag>
+   <elementGuidId>44b2d63e-f6b6-4140-abca-d2758a9ab2e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Sixth Form']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2cc103a3-0133-4f60-b4dc-10e076bfc60e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_target</name>
+      <type>Main</type>
+      <value>self</value>
+      <webElementGuid>d370674d-abff-4fa3-81aa-a9595fb94a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c114-9</value>
+      <webElementGuid>80a02047-0869-4974-b34d-aefe39360557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobs/sixth-form</value>
+      <webElementGuid>1aae4248-cb8d-4bbe-8481-540e3fb09c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sixth Form</value>
+      <webElementGuid>09cb6608-fa11-4176-b04c-c7d9840f70f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sixth Form (1,053)</value>
+      <webElementGuid>cb2b1d29-d892-40a3-bf2d-cfac2abe2f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-fejobs&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;w-full&quot;]/popular-search[1]/div[@class=&quot;multi-select-wrap px-6 hidden md:block md:px-0 md:w-full md:mx-auto relative ng-star-inserted&quot;]/et-tab[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/div[@class=&quot;select-desc w-full border-b border-primary-400 bg-warn z-50 transition-all ng-tns-c114-9 ng-trigger ng-trigger-expandCollapse open-panel-action ng-star-inserted&quot;]/ul[@class=&quot;grid gap-0.5 md:grid-cols-3 lg:grid-cols-4 px-6 lg:px-0 py-8 w-full lg:w-280 mx-auto ng-tns-c114-9&quot;]/li[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/ng-cointainer[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c114-9&quot;]</value>
+      <webElementGuid>6ad5d4f8-00d8-4ee5-b84c-6cf08d39de21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(890)'])[1]/following::a[1]</value>
+      <webElementGuid>9283d873-99ad-49cc-9985-ba931e604687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sixth Form']/parent::*</value>
+      <webElementGuid>1fb07170-469a-4de3-8fee-796b701320a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jobs/sixth-form')]</value>
+      <webElementGuid>c71efcc5-4f45-4596-b198-ec8b0539d483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ng-cointainer/a</value>
+      <webElementGuid>5d7fe5e0-807f-4906-a76f-7494a6002fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobs/sixth-form' and (text() = 'Sixth Form (1,053)' or . = 'Sixth Form (1,053)')]</value>
+      <webElementGuid>d11ae6e6-2f37-44e1-94be-8657086376c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

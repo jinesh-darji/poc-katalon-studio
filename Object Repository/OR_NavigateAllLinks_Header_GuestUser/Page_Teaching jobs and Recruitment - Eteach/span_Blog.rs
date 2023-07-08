@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Blog</name>
+   <tag></tag>
+   <elementGuidId>661b8963-7bc3-4c66-a29d-bcb2cf8b5e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-tooltip-trigger.fuse-horizontal-navigation-item.ng-star-inserted.cdk-focused.cdk-mouse-focused > div.fuse-horizontal-navigation-item-title-wrapper.ng-star-inserted > div.fuse-horizontal-navigation-item-title.horizontal-nav-content-title > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-1']/div/div[5]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>02a96e56-23e8-4d9e-9b42-03579da3bf4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Blog </value>
+      <webElementGuid>b1b70c02-ce40-4479-80ca-d9e1a3126085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-1&quot;)/div[@class=&quot;mat-menu-content ng-tns-c56-3&quot;]/div[@class=&quot;mat-focus-indicator fuse-horizontal-navigation-menu-item mat-menu-item ng-tns-c56-3 ng-star-inserted&quot;]/fuse-horizontal-navigation-basic-item[1]/div[@class=&quot;fuse-horizontal-navigation-item-wrapper fuse-horizontal-navigation-item-has-subtitle horizontal-nav-content-wrapper ng-star-inserted&quot;]/a[@class=&quot;mat-tooltip-trigger fuse-horizontal-navigation-item ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title-wrapper ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title horizontal-nav-content-title&quot;]/span[1]</value>
+      <webElementGuid>cd5c75b6-0ff4-4dc7-98a3-6fcb3764a5ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-1']/div/div[5]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      <webElementGuid>11d215fd-3e42-43ad-822f-79239c1088b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search jobs by institution type'])[1]/following::span[1]</value>
+      <webElementGuid>0c228fe0-0e4e-4b3d-9462-09439984ca05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institution Type'])[1]/following::span[2]</value>
+      <webElementGuid>16c74ac4-0740-419f-b647-730e215fbcb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore expert advice and tips from your CV to the classroom'])[1]/preceding::span[1]</value>
+      <webElementGuid>8fcda27c-a0f9-46ed-8029-d34da5f20c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Guides'])[1]/preceding::span[2]</value>
+      <webElementGuid>fabe36fe-a6ef-47fd-bf3a-17d86ebbc8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blog']/parent::*</value>
+      <webElementGuid>ea7c1e78-f99b-4c80-87c1-2656accd5404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      <webElementGuid>ff2c5a48-c6e4-4b1b-aa18-75c1b9e5e028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Blog ' or . = ' Blog ')]</value>
+      <webElementGuid>178133fe-bb63-4f57-945e-4088e973b8ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

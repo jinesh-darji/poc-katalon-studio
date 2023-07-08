@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Jobs_darkhidden w-auto</name>
+   <tag></tag>
+   <elementGuidId>fc976320-fd51-4fde-a0a2-acc712afd1f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>773fc0db-f3e6-4506-8f09-1a25286fe59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark:hidden w-auto</value>
+      <webElementGuid>325f27da-85ae-407f-8d5e-2e8bb30b3bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/logo/eteach/logo.svg</value>
+      <webElementGuid>df2c3e1a-4314-417d-9a8c-cc78beab4814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Eteach logo</value>
+      <webElementGuid>9df760eb-83ac-4dba-8590-9abe98b75b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;relative bg-primary-500 w-full&quot;]/div[@class=&quot;flex text-white flex-0 items-center lg:w-320 lg:mx-auto h-15 px-3 md:px-4 z-49 dark:shadow-none dark:border-b dark:bg-transparent print:hidden&quot;]/div[@class=&quot;flex items-center sm:mr-4 lg:mr-8 cursor-pointer ng-star-inserted&quot;]/div[@class=&quot;hidden lg:flex&quot;]/img[@class=&quot;dark:hidden w-auto&quot;]</value>
+      <webElementGuid>a79b6c6d-dac1-48d6-871d-257e813f5b75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Eteach logo']</value>
+      <webElementGuid>96a9d892-5d60-4cb5-8860-f2030db7261f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>b83beceb-6f2b-466c-9bac-07fcf0b203ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/logo/eteach/logo.svg' and @alt = 'Eteach logo']</value>
+      <webElementGuid>84685bd1-8143-4863-86ff-a8406d7beac3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

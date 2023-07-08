@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Teaching Assistant (610)</name>
+   <tag></tag>
+   <elementGuidId>87853e02-ea83-4f42-b00d-2a7c93f43db7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-tns-c114-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[4]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97f0c591-4cf1-478b-bd60-d7c1a72dd322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_target</name>
+      <type>Main</type>
+      <value>self</value>
+      <webElementGuid>f8e83f12-56c4-4cc0-a838-38d5e9d1de05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c114-9</value>
+      <webElementGuid>a0570583-6dd0-4a12-80ca-c870e63ca697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobs/teaching-assistant</value>
+      <webElementGuid>68744111-308f-4c0f-92fe-24db3162ff08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Teaching Assistant</value>
+      <webElementGuid>4f5da4fe-e74b-446c-a869-8dc3e1025d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Teaching Assistant (610)</value>
+      <webElementGuid>1e4f6a44-dd6a-4504-971e-aac0b331513e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;w-full&quot;]/popular-search[1]/div[@class=&quot;multi-select-wrap px-6 hidden md:block md:px-0 md:w-full md:mx-auto relative ng-star-inserted&quot;]/et-tab[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/div[@class=&quot;select-desc w-full border-b border-primary-400 bg-warn z-50 transition-all ng-tns-c114-9 ng-trigger ng-trigger-expandCollapse open-panel-action ng-star-inserted&quot;]/ul[@class=&quot;grid gap-0.5 md:grid-cols-3 lg:grid-cols-4 px-6 lg:px-0 py-8 w-full lg:w-280 mx-auto ng-tns-c114-9&quot;]/li[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/ng-cointainer[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c114-9&quot;]</value>
+      <webElementGuid>33f294dd-9ed9-434a-ad7e-6e3149cf2c28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[4]/following::a[1]</value>
+      <webElementGuid>9d339aab-1094-4e86-b193-f85d57807118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs by phase'])[1]/following::a[1]</value>
+      <webElementGuid>7daeb773-a150-4dc5-98ed-01c98d7944de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Teaching Assistant']/parent::*</value>
+      <webElementGuid>fc30c4b7-c98a-4dd6-8212-172320586e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jobs/teaching-assistant')]</value>
+      <webElementGuid>f700c808-d149-426c-9d81-09a9e8f581c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-cointainer/a</value>
+      <webElementGuid>664a0d9b-1d3c-4c07-8bab-5f5ee59ca479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobs/teaching-assistant' and (text() = 'Teaching Assistant (610)' or . = 'Teaching Assistant (610)')]</value>
+      <webElementGuid>7730e628-72ba-4ff1-ac70-c29be5555068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

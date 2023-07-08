@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JL</name>
+   <tag></tag>
+   <elementGuidId>a9676c6a-eb81-4630-8bf6-c6168e61be41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.main-acc1.displayNoneMobile > div.profile-textimg > div.profile-text1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-scroll']/div[4]/div/div[2]/div/div/div/div/div[3]/ul/li[4]/div/div/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ca555e7-e978-4244-978c-fa6b61a7479e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-text1</value>
+      <webElementGuid>1a988dad-fe53-48cd-b430-4a91faab1055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JL</value>
+      <webElementGuid>1b0a2dbd-6fef-4fd0-bb09-443b0a9105bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-scroll&quot;)/div[@class=&quot;main-foot-divhold&quot;]/div[@class=&quot;container-fluid whole-wrap&quot;]/div[@class=&quot;header-fullwidth&quot;]/div[@class=&quot;main-menu-hold&quot;]/div[@class=&quot;container-fluid responsive-nav-head&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;mainnav&quot;]/div[@class=&quot;rightSec&quot;]/ul[@class=&quot;res-menu-sec eteachRightNav&quot;]/li[@class=&quot;mmenu no-bdr-menu account-btn-main&quot;]/div[@class=&quot;main-acc&quot;]/div[@class=&quot;mainAccount&quot;]/a[@class=&quot;main-acc1 displayNoneMobile&quot;]/div[@class=&quot;profile-textimg&quot;]/div[@class=&quot;profile-text1&quot;]</value>
+      <webElementGuid>378a235e-d330-48ab-af41-a6cb8f54bd7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-scroll']/div[4]/div/div[2]/div/div/div/div/div[3]/ul/li[4]/div/div/a/div/div</value>
+      <webElementGuid>3fe6ff7e-94b0-420a-9fbb-fbca87f70576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JL'])[1]/following::div[4]</value>
+      <webElementGuid>9037a095-4c82-4165-8a28-4a23f1fdadf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::div[6]</value>
+      <webElementGuid>5905d8ac-2cab-407f-bddd-a0b91f3728c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div/div</value>
+      <webElementGuid>7f522e3a-6b9c-47d2-b3ba-8e4a905bb2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JL' or . = 'JL')]</value>
+      <webElementGuid>1eeedd25-97f9-49d9-8a49-06ae966ea601</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

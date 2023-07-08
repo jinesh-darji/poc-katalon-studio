@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Curriculum</name>
+   <tag></tag>
+   <elementGuidId>6425f1c1-24e1-4046-b8cd-7ce2001654f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-1']/div/div[8]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-tooltip-trigger.fuse-horizontal-navigation-item.ng-star-inserted.cdk-focused.cdk-mouse-focused > div.fuse-horizontal-navigation-item-title-wrapper.ng-star-inserted > div.fuse-horizontal-navigation-item-title.horizontal-nav-content-title > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cba6aba8-882a-4685-bce9-0f6675b7d98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Curriculum </value>
+      <webElementGuid>17600527-7d9e-4c54-8cb0-6d1a91b3c83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-1&quot;)/div[@class=&quot;mat-menu-content ng-tns-c56-3&quot;]/div[@class=&quot;mat-focus-indicator fuse-horizontal-navigation-menu-item mat-menu-item ng-tns-c56-3 ng-star-inserted&quot;]/fuse-horizontal-navigation-basic-item[1]/div[@class=&quot;fuse-horizontal-navigation-item-wrapper fuse-horizontal-navigation-item-has-subtitle horizontal-nav-content-wrapper ng-star-inserted&quot;]/a[@class=&quot;mat-tooltip-trigger fuse-horizontal-navigation-item ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title-wrapper ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title horizontal-nav-content-title&quot;]/span[1]</value>
+      <webElementGuid>0a9d2a44-75f7-4e29-b1b4-280afb377b3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-1']/div/div[8]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      <webElementGuid>4eb90d04-f61b-4e53-828d-e1160258a9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search jobs by phase'])[1]/following::span[1]</value>
+      <webElementGuid>57be1041-076e-4827-a3c6-aa17b949465c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phases'])[1]/following::span[2]</value>
+      <webElementGuid>30843d7d-4c23-4e96-8eb5-dd12bcc120df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Understand more about the National Curriculum'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff7c7f15-0b07-4cda-9969-400cdaa00282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Curriculum']/parent::*</value>
+      <webElementGuid>5f12577d-3f47-434f-86ab-b04174fcf0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/fuse-horizontal-navigation-basic-item/div/a/div[2]/div/span</value>
+      <webElementGuid>5e818a10-0dd1-4e65-b983-1dce940b533a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Curriculum ' or . = ' Curriculum ')]</value>
+      <webElementGuid>db348da1-40bf-4177-a15f-3de4c3327b04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

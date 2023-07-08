@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>2b998eb4-0022-4b1c-8da2-8da90df3024e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Careers - Jobs - Eteach Group&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-165379']/div[2]/nav/div/h1/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>28f84aa0-8f11-4067-b9bf-68ad6a3923ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Careers - Jobs - Eteach Group</value>
+      <webElementGuid>72076c98-f6cf-444e-99cc-ca5807d90399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Careers - Jobs - Eteach Group</value>
+      <webElementGuid>bbf7bde2-3fde-409e-b506-785ac9676a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d27i7n2isjbnbi.cloudfront.net/careers/photos/269303/thumb_photo_1657110139.png</value>
+      <webElementGuid>fb0b573a-30be-41da-b193-4f1208b904c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-165379&quot;)/div[@class=&quot;white-center-logo&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;container&quot;]/h1[@class=&quot;brand&quot;]/a[1]/img[1]</value>
+      <webElementGuid>19f36bdf-ec1b-4f11-8e05-55e390bd051f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-165379']/div[2]/nav/div/h1/a/img</value>
+      <webElementGuid>e138749b-9be5-4e47-b261-2f6f886d67ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Careers - Jobs - Eteach Group']</value>
+      <webElementGuid>d3b9a838-a70c-4831-94f2-7a2b087f554a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e7650329-7378-4ad6-8d68-1145b51b92e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'Careers - Jobs - Eteach Group' and @alt = 'Careers - Jobs - Eteach Group' and @src = 'https://d27i7n2isjbnbi.cloudfront.net/careers/photos/269303/thumb_photo_1657110139.png']</value>
+      <webElementGuid>463898b0-9486-4018-8fb5-f1748a4051db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

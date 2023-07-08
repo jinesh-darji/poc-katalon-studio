@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Featured Jobs_swiper-pagination-bullet_e5321c</name>
+   <tag></tag>
+   <elementGuidId>64ba9d28-ab25-415b-ac67-276b15ded689</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.swiper-pagination-bullet.swiper-pagination-bullet-active.swiper-pagination-bullet-active-main</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//swiper/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>674affac-d2cd-4a0f-94ff-b4233f954bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-pagination-bullet swiper-pagination-bullet-active swiper-pagination-bullet-active-main</value>
+      <webElementGuid>75fb3fa6-700c-481a-99a8-91f502aad3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;job-slider w-full lg:w-320 lg:mx-auto px-3 md:px-4 dark:bg-transparent&quot;]/feature-jobs-banner[1]/div[@class=&quot;w-full text-center ng-star-inserted&quot;]/swiper[@class=&quot;mySwiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden&quot;]/div[@class=&quot;swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal swiper-pagination-bullets-dynamic ng-star-inserted&quot;]/span[@class=&quot;swiper-pagination-bullet swiper-pagination-bullet-active swiper-pagination-bullet-active-main&quot;]</value>
+      <webElementGuid>6991fd0a-b512-4165-8896-9ee80a500b93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//swiper/div[3]/span</value>
+      <webElementGuid>2cbdff07-7dc2-420c-94d0-22b5eaa41242</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

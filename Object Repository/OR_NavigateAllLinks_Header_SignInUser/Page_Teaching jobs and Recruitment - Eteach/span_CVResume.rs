@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CVResume</name>
+   <tag></tag>
+   <elementGuidId>0d61230b-0e99-4a92-9557-7c35892eed69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-2']/div/div/a[5]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-focus-indicator.mat-menu-item.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.font-condensed.text-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9a2d769a-7cd0-4f33-b65c-ebc0144e8b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-condensed text-lg</value>
+      <webElementGuid>6ce8a84a-1230-4ad9-9757-41ff98ff1ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CV/Resume</value>
+      <webElementGuid>68c58b48-2776-4dac-aa87-c14783e88f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-2&quot;)/div[@class=&quot;mat-menu-content ng-tns-c56-7&quot;]/div[@class=&quot;grid sm:grid-cols-2 sm:gap-x-7 gap-y-2 px-4 sm:px-9 py-4 ng-tns-c56-7 ng-star-inserted&quot;]/a[@class=&quot;mat-focus-indicator mat-menu-item ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;font-condensed text-lg&quot;]</value>
+      <webElementGuid>e9a48344-a09d-4d06-9fe5-1fdf45b9eae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-2']/div/div/a[5]/span[2]</value>
+      <webElementGuid>18a278db-0025-4f36-9c49-44832a723158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Jobs'])[1]/following::span[2]</value>
+      <webElementGuid>58cbb127-8fbd-49ff-b43e-c7995d64de0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[1]/following::span[4]</value>
+      <webElementGuid>9857c35e-dc81-49e3-a82d-05927ceeac64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application History'])[1]/preceding::span[2]</value>
+      <webElementGuid>eb6b9972-efac-4d83-be4d-77980caef08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preference Centre'])[1]/preceding::span[4]</value>
+      <webElementGuid>b245f0c4-6b08-4dbf-b501-bb5bd63b0ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CV/Resume']/parent::*</value>
+      <webElementGuid>b20b9044-2766-4fbd-ac63-40593bcf8492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/span[2]</value>
+      <webElementGuid>acef6339-73c6-47fa-9c56-1c859917d943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CV/Resume' or . = 'CV/Resume')]</value>
+      <webElementGuid>518ec85a-59e2-47c9-beed-32639582a0ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

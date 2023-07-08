@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JL</name>
+   <tag></tag>
+   <elementGuidId>e87e65e8-8878-4843-b564-03e48650d31e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d1b5409-e87c-436a-897d-dc6b75e565ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center w-full h-full rounded-full font-light text-base uppercase bg-warn text-white dark:bg-gray-700 dark:text-gray-200 ng-star-inserted</value>
+      <webElementGuid>e594b653-1e38-4bad-b530-7db6ede71c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> JL </value>
+      <webElementGuid>4fb2553c-7b2c-4e93-a7ea-103f5b4647d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-fejobs&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;relative bg-primary-500 w-full&quot;]/div[@class=&quot;flex text-white flex-0 items-center lg:w-320 lg:mx-auto h-15 px-3 md:px-4 z-49 dark:shadow-none dark:border-b dark:bg-transparent print:hidden&quot;]/div[@class=&quot;right-nav-panel flex items-center pl-2 ml-auto space-x-0.5 sm:space-x-2&quot;]/user[1]/button[@class=&quot;mat-menu-trigger ng-star-inserted&quot;]/et-avatar[1]/div[@class=&quot;flex items-center justify-center cursor-pointer ng-star-inserted dark:bg-hover&quot;]/div[@class=&quot;relative flex flex-0 items-center justify-center w-8 h-8&quot;]/div[@class=&quot;flex items-center justify-center w-full h-full rounded-full font-light text-base uppercase bg-warn text-white dark:bg-gray-700 dark:text-gray-200 ng-star-inserted&quot;]</value>
+      <webElementGuid>0e203e70-e17a-4403-a13d-cd00524533fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::div[3]</value>
+      <webElementGuid>76cfd57c-7f19-46a0-a7c3-7a9877aa395d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidates'])[1]/following::div[6]</value>
+      <webElementGuid>9b00f946-c0dd-4ac9-bea8-9c9a180f09c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mic_none'])[1]/preceding::div[9]</value>
+      <webElementGuid>45b68e81-63c7-412a-8c76-483ac5eb5999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JL']/parent::*</value>
+      <webElementGuid>5a6d7aa5-aa40-4a3f-af58-94e676d8ca1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//et-avatar/div/div/div</value>
+      <webElementGuid>6ca140f4-70f3-48b5-b53c-a713397e27f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' JL ' or . = ' JL ')]</value>
+      <webElementGuid>6cdca3ca-d82f-43b4-9156-27f38561cda7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

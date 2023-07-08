@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Engineering  Technology (24)</name>
+   <tag></tag>
+   <elementGuidId>ccef85b8-0e89-4826-9ea8-a704dba23d64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Engineering &amp; Technology']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9868c360-b4fd-4650-ac00-6b717e0385df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_target</name>
+      <type>Main</type>
+      <value>self</value>
+      <webElementGuid>0f03136c-81f8-45c6-9e90-9fe3ec107745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c114-9</value>
+      <webElementGuid>141dd9fb-c705-4f0e-8a7f-ab53933e822e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobs/engineering--and--technology</value>
+      <webElementGuid>c43505fc-2d77-4dd9-90e8-443e704bd394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Engineering &amp; Technology</value>
+      <webElementGuid>f0c18aae-c0a8-4a80-b581-f07652dc5285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Engineering &amp; Technology (24)</value>
+      <webElementGuid>5a8012dc-420b-48af-a820-e929641d9562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;w-full&quot;]/popular-search[1]/div[@class=&quot;multi-select-wrap px-6 hidden md:block md:px-0 md:w-full md:mx-auto relative ng-star-inserted&quot;]/et-tab[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/div[@class=&quot;select-desc w-full border-b border-primary-400 bg-warn z-50 transition-all ng-tns-c114-9 ng-trigger ng-trigger-expandCollapse open-panel-action ng-star-inserted&quot;]/ul[@class=&quot;grid gap-0.5 md:grid-cols-3 lg:grid-cols-4 px-6 lg:px-0 py-8 w-full lg:w-280 mx-auto ng-tns-c114-9&quot;]/li[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/ng-cointainer[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c114-9&quot;]</value>
+      <webElementGuid>0a413393-5868-458e-bbb6-d896d1789077</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(138)'])[1]/following::a[1]</value>
+      <webElementGuid>ae3db3cf-1f73-4be9-8183-6993cf614b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Engineering &amp; Technology']/parent::*</value>
+      <webElementGuid>72988bfa-7ebd-4a81-a977-81a44a1619d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jobs/engineering--and--technology')]</value>
+      <webElementGuid>8a7bfc11-55a3-4219-a59c-3c98d94642e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ng-cointainer/a</value>
+      <webElementGuid>7c828726-90d7-444c-bc60-cdd2673a445f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobs/engineering--and--technology' and (text() = 'Engineering &amp; Technology (24)' or . = 'Engineering &amp; Technology (24)')]</value>
+      <webElementGuid>f20711af-9a43-46a8-a199-c159cfdd9550</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

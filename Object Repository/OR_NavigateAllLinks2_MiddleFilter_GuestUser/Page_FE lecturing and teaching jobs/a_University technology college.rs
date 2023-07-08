@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_University technology college</name>
+   <tag></tag>
+   <elementGuidId>0293042d-9140-4982-90d5-12512426b846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'University technology college')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cf30e447-6afb-4410-8b67-0b10413a788d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_target</name>
+      <type>Main</type>
+      <value>self</value>
+      <webElementGuid>2dee6bc9-9f3a-450f-b0f4-c8491f9ad5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c114-9</value>
+      <webElementGuid>91a425e6-1901-4ede-bf50-bd412beb5e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobs/university-technology-college-utc/?oo=ins</value>
+      <webElementGuid>cfa8a4d3-a022-4005-8b08-041288858dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>University technology college</value>
+      <webElementGuid>2d050485-bc40-4831-9ea0-5701536d36de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>University technology college </value>
+      <webElementGuid>96e0d7cc-4b21-49f7-b89c-918d0b5be170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-fejobs&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;w-full&quot;]/popular-search[1]/div[@class=&quot;multi-select-wrap px-6 hidden md:block md:px-0 md:w-full md:mx-auto relative ng-star-inserted&quot;]/et-tab[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/div[@class=&quot;select-desc w-full border-b border-primary-400 bg-warn z-50 transition-all ng-tns-c114-9 ng-trigger ng-trigger-expandCollapse open-panel-action ng-star-inserted&quot;]/ul[@class=&quot;grid gap-0.5 md:grid-cols-3 lg:grid-cols-4 px-6 lg:px-0 py-8 w-full lg:w-280 mx-auto ng-tns-c114-9&quot;]/li[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/ng-cointainer[@class=&quot;ng-tns-c114-9 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c114-9&quot;]</value>
+      <webElementGuid>4b1ba48d-9f24-424a-8793-8b844a2c647e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'University technology college')]</value>
+      <webElementGuid>9561e2d3-ac98-4859-aae6-c1b98849f1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(880)'])[1]/following::a[1]</value>
+      <webElementGuid>6afb831c-ab40-471f-89f5-bd07c9b4e9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(35)'])[1]/preceding::a[1]</value>
+      <webElementGuid>edfddb85-96c7-4525-b393-f2e7dc0072a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='University technology college']/parent::*</value>
+      <webElementGuid>86353120-b1f1-4922-8c68-ae7cb2fde204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jobs/university-technology-college-utc/?oo=ins')]</value>
+      <webElementGuid>bf515212-852e-48f2-85cd-41c8ca0a0709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ng-cointainer/a</value>
+      <webElementGuid>e8b09a27-ebd3-4cd6-b983-91c148a89e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobs/university-technology-college-utc/?oo=ins' and (text() = 'University technology college ' or . = 'University technology college ')]</value>
+      <webElementGuid>c7d8e269-57a4-4f66-91e4-b87ae70eec4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

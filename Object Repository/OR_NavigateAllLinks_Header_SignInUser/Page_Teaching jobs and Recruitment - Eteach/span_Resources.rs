@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Resources</name>
+   <tag></tag>
+   <elementGuidId>6fdda44f-41b4-4928-8dcf-61af4cf4f6b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Pathways'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d25235d4-c6f8-4b62-b70b-c9431df3a550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Resources </value>
+      <webElementGuid>ccf9a27c-4d08-4721-a93e-6d5ec53e4d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;relative bg-primary-500 w-full&quot;]/div[@class=&quot;flex text-white flex-0 items-center lg:w-320 lg:mx-auto h-15 px-3 md:px-4 z-49 dark:shadow-none dark:border-b dark:bg-transparent print:hidden&quot;]/fuse-horizontal-navigation[@class=&quot;mt-1 mr-2 ng-tns-c63-0 ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-wrapper ng-tns-c63-0&quot;]/fuse-horizontal-navigation-branch-item[@class=&quot;fuse-horizontal-navigation-menu-item ng-tns-c63-0 ng-star-inserted&quot;]/button[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-wrapper ng-star-inserted&quot;]/div[@class=&quot;mat-tooltip-trigger fuse-horizontal-navigation-item&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title-wrapper&quot;]/div[@class=&quot;fuse-horizontal-navigation-item-title&quot;]/span[1]</value>
+      <webElementGuid>74b2f8cb-d34e-4dab-bd3d-c26d40f2ac41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career Pathways'])[1]/following::span[2]</value>
+      <webElementGuid>e8d48ca1-89b1-4d89-bc05-eb2e7a53c52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs'])[1]/following::span[3]</value>
+      <webElementGuid>2b62d0a7-172b-41e2-9e3f-3c8758162d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidates'])[1]/preceding::span[2]</value>
+      <webElementGuid>706a21d6-09a6-4bb9-82ee-e7d8a19dc51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/preceding::span[3]</value>
+      <webElementGuid>6211ee51-6866-41e5-88ed-30cd3507ccc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resources']/parent::*</value>
+      <webElementGuid>cc5753ec-0daf-4b33-9d10-b17e6fdcc7eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fuse-horizontal-navigation-branch-item[2]/button/div/div/div/div/span</value>
+      <webElementGuid>555f00db-e22f-407a-858f-99c746b6a2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Resources ' or . = ' Resources ')]</value>
+      <webElementGuid>228579e3-f25a-4632-b983-feaeebfcb4d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

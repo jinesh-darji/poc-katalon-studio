@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Featured Jobs_swiper-button-prev ng-sta_e3b638</name>
+   <tag></tag>
+   <elementGuidId>66e5fa3c-349a-4883-bad0-7c7cd1f73f74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//swiper/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-button-prev.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c727544-3f25-4bab-a8df-afbbbb61d71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-button-prev ng-star-inserted</value>
+      <webElementGuid>993834e4-10c4-40d9-a3eb-8905c2c02421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fuse-splash-screen-hidden light theme-eteach&quot;]/app-root[1]/layout[@class=&quot;ng-star-inserted&quot;]/modern-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col w-full h-screen ng-star-inserted&quot;]/div[@class=&quot;w-full&quot;]/landing-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-col items-center justify-start w-full overflow-x-hidden bg-white&quot;]/div[@class=&quot;job-slider w-full lg:w-320 lg:mx-auto px-3 md:px-4 dark:bg-transparent&quot;]/feature-jobs-banner[1]/div[@class=&quot;w-full text-center ng-star-inserted&quot;]/swiper[@class=&quot;mySwiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden&quot;]/div[@class=&quot;swiper-button-prev ng-star-inserted&quot;]</value>
+      <webElementGuid>c0292d12-0bf4-4b62-816d-1c610cd088a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//swiper/div</value>
+      <webElementGuid>f17a5003-0bfe-472d-a624-4bf43399df83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
